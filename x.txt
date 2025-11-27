@@ -3,3 +3,5 @@ ovo je prvi commit datoteke x
 ovo je edit :)
 
 nadodan edit
+
+jos veci edit
